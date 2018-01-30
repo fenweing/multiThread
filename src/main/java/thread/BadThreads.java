@@ -1,8 +1,8 @@
 package thread;
 public class BadThreads {
-
+//test
     static String message;
-
+//flag
     private static class CorrectorThread
         extends Thread {
 
